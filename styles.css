@@ -42,21 +42,16 @@ a {
   padding: 38px 0 68px;
 }
 
-.logo-placeholder {
-  display: grid;
-  place-items: center;
+.site-logo {
+  display: block;
   width: 48px;
   height: 48px;
-  color: #9a9a9a;
-  background:
-    radial-gradient(circle at 36% 24%, #3c1d12 0 9%, transparent 10%),
-    radial-gradient(circle at 66% 24%, #3c1d12 0 9%, transparent 10%),
-    linear-gradient(#f7d5ba, #f7d5ba);
-  border: 2px dashed #d7d7d7;
-  border-radius: 50%;
-  font-size: 0.64rem;
-  font-weight: 800;
-  text-align: center;
+}
+
+.site-logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
 }
 
 nav {
