@@ -120,7 +120,7 @@ h1 {
   max-width: 890px;
   margin-bottom: 26px;
   color: #343437;
-  font-size: 2.62rem;
+  font-size: 2.36rem;
   font-weight: 800;
   line-height: 1.14;
   letter-spacing: 0;
@@ -132,7 +132,7 @@ h1 span {
 
 .summary {
   max-width: 910px;
-  margin-bottom: 72px;
+  margin-bottom: 52px;
   color: var(--muted);
   font-size: 1.08rem;
   font-weight: 400;
